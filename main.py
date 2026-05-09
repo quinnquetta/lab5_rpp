@@ -1,3 +1,4 @@
+# Из оригинала.
 import os
 import csv
 
