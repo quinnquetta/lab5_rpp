@@ -1,3 +1,4 @@
+# Из клона.
 import os
 import csv
 
